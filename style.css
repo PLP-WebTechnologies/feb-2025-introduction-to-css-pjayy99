@@ -1,0 +1,22 @@
+/* style.css */
+
+/* Styling using a class */
+.box {
+    background-color: lightblue;
+    color: darkblue;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    margin: 20px;
+    padding: 15px;
+    border: 2px solid navy;
+  }
+  
+  /* Styling using an ID */
+  #special {
+    background-color: lightgreen;
+    color: darkgreen;
+    font-weight: bold;
+    padding: 10px;
+    border: 2px dashed green;
+  }
+  
